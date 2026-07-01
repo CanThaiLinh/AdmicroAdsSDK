@@ -17,7 +17,7 @@ let package = Package(
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(name: "AdmicroAdsSDK",
-                      url: "https://github.com/CanThaiLinh/AdmicroAdsSDK/releases/download/2.1.24/AdmicroAdsSDK_2.1.24.zip",
+                      url: "https://github.com/CanThaiLinh/AdmicroAdsSDK/releases/download/2.1.25/AdmicroAdsSDK_2.1.25.zip",
                       checksum: "b3b025a848789d2a3e64a57243c6fc1ddde41aea39552fb844b7a8b0088c18c4"),
     ]
 )
