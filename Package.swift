@@ -18,6 +18,6 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(name: "AdmicroAdsSDK",
                       url: "https://github.com/CanThaiLinh/AdmicroAdsSDK/releases/download/2.1.25/AdmicroAdsSDK_2.1.25.zip",
-                      checksum: "b3b025a848789d2a3e64a57243c6fc1ddde41aea39552fb844b7a8b0088c18c4"),
+                      checksum: "b35e48b77bd02ec644ffa8ebf927723b9ec6f9ec58ccd0f254e9e2182c3003c1"),
     ]
 )
